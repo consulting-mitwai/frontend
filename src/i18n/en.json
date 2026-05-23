@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "services": "Services",
+    "why": "Why MITWAI?",
+    "cases": "Use Cases",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Make possible what you imagine with Artificial Intelligence",
+    "subtitle": "Specialized data and AI consulting for companies ready to grow smarter.",
+    "cta_primary": "Contact us",
+    "cta_secondary": "Our services"
+  },
+  "services": {
+    "title": "Our services",
+    "subtitle": "Data and AI solutions tailored to your company's maturity level.",
+    "items": [
+      {
+        "title": "Training & Education",
+        "description": "Training programs across all levels of the data pipeline — from governance and management to advanced AI models. Tailored to your team's current maturity level."
+      },
+      {
+        "title": "AI Development & Deployment",
+        "description": "We build, deploy, and monitor production-ready AI models. Scalable solutions that generate value from the first weeks."
+      },
+      {
+        "title": "Strategic Consulting",
+        "description": "We guide your company in defining a data and AI roadmap aligned to your business goals. Practical strategy, measurable results."
+      }
+    ]
+  },
+  "why": {
+    "title": "Why MITWAI?",
+    "subtitle": "We're not a generic consultancy. We understand your starting point and design from there.",
+    "items": [
+      {
+        "title": "Tailored solutions",
+        "description": "We assess your organization's data maturity and design solutions tailored to your starting point — not a generic template."
+      },
+      {
+        "title": "Monetizable results",
+        "description": "Our Insights as a Service approach ensures every solution delivers concrete business value — early and continuously."
+      },
+      {
+        "title": "Cutting-edge science",
+        "description": "We apply the latest advances in AI and analytics, backed by academic credentials and scientific partners for rigorous, efficient implementations."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Use Cases",
+    "subtitle": "Real projects across different sectors. Measurable results.",
+    "labels": {
+      "challenge": "Challenge",
+      "solution": "Solution",
+      "result": "Result"
+    },
+    "items": [
+      {
+        "sector": "Healthcare",
+        "title": "Real-Time AI Assistant for Patients",
+        "challenge": "Patients struggled to access clear information about their treatments between appointments, leading to uncertainty and low adherence.",
+        "solution": "An AI conversational agent integrated with the clinical system, allowing patients to query their treatments, medications, appointments, and recommendations at any time.",
+        "result": "Higher treatment adherence, fewer unnecessary medical queries, and a significantly better patient experience."
+      },
+      {
+        "sector": "Intellectual Property",
+        "title": "Mathematical Models for Rights Distribution and Collection",
+        "challenge": "A rights management company needed to optimize royalty distribution and improve collection forecasting across complex networks of authors and platforms.",
+        "solution": "Mathematical models analyzing consumption patterns and historical data to project revenue, optimize distribution by channel, and detect anomalies — integrated into existing systems.",
+        "result": "Greater accuracy in rights settlement, fewer disputes between parties, and stronger financial forecasting."
+      },
+      {
+        "sector": "Real Estate",
+        "title": "Data Lake and Data Governance",
+        "challenge": "The company operated with data scattered across multiple systems — CRM, ERP, sales portals, and financial platforms — with no centralized architecture.",
+        "solution": "A centralized Data Lake with governance policies, a data catalog, and quality rules integrating all sources into a unified analytics layer.",
+        "result": "A unified business view, faster and more agile reporting, and advanced analytics capabilities across portfolio, pricing, and client data."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Sectors we work in",
+    "items": ["Healthcare", "Financial", "Real Estate", "Intellectual Property", "Insurance", "Legal"]
+  },
+  "team": {
+    "title": "Our team",
+    "subtitle": "Three co-founders with senior-level expertise in data, AI, and finance.",
+    "role": "Co-founder",
+    "members": [
+      {
+        "name": "Juan Sebastián Parra",
+        "bio": "PhD in Education and Master's in Data Science and Engineering. Has led data and analytics communities in the Colombian insurance sector and directed R&D projects in AI and advanced analytics in financial services. His multidisciplinary profile bridges scientific rigor with high-impact business applications."
+      },
+      {
+        "name": "Sebastián Castelblanco",
+        "bio": "Master's in Data Science and Economist. Has worked as Senior Data Scientist at global-scale tech companies, with experience in e-commerce, fintech, and consulting. He combines economic thinking with machine learning to deliver business solutions focused on measurable outcomes."
+      },
+      {
+        "name": "Sebastián Ardila",
+        "bio": "Master's in Finance with extensive experience in the Colombian financial sector. Has led financial risk, methodology, and derivatives operations at capital market infrastructure entities and multinational banks. His expertise blends quantitative finance with strategic vision for data-driven risk management."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's talk",
+    "subtitle": "Ready to make it possible? Let's talk about how AI can transform your business.",
+    "whatsapp": "Message us on WhatsApp",
+    "email": "Send us an email",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message",
+      "placeholder_name": "Your name",
+      "placeholder_email": "you@company.com",
+      "placeholder_message": "Tell us about your project..."
+    }
+  },
+  "footer": {
+    "tagline": "Make it Possible with Artificial Intelligence",
+    "nav_title": "Navigation",
+    "contact_title": "Contact",
+    "rights": "© 2025 MITWAI. All rights reserved."
+  }
+}

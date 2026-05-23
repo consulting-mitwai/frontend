@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "why": "¿Por qué MITWAI?",
+    "cases": "Casos de uso",
+    "team": "Equipo",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "tagline": "Haz posible lo que imaginas con Inteligencia Artificial",
+    "subtitle": "Consultoría especializada en datos e inteligencia artificial para empresas que quieren crecer de forma inteligente.",
+    "cta_primary": "Contáctanos",
+    "cta_secondary": "Ver servicios"
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "subtitle": "Soluciones de datos e IA adaptadas al nivel de madurez de tu empresa.",
+    "items": [
+      {
+        "title": "Formación y Capacitaciones",
+        "description": "Programas formativos en todos los niveles del flujo de datos: desde gobierno y gestión hasta modelos avanzados de IA. Diseñados a la medida del nivel de madurez de tu equipo."
+      },
+      {
+        "title": "Desarrollo e Implementación de IA",
+        "description": "Desarrollamos, desplegamos y monitoreamos modelos de inteligencia artificial listos para producción. Soluciones escalables que generan valor desde las primeras semanas."
+      },
+      {
+        "title": "Consultoría Estratégica",
+        "description": "Acompañamos a tu empresa en la definición de una hoja de ruta de datos e IA alineada a tus objetivos de negocio. Estrategia práctica, resultados medibles."
+      }
+    ]
+  },
+  "why": {
+    "title": "¿Por qué MITWAI?",
+    "subtitle": "No somos una consultoría genérica. Entendemos tu punto de partida y diseñamos desde ahí.",
+    "items": [
+      {
+        "title": "Soluciones a tu medida",
+        "description": "Diagnosticamos el nivel de madurez en datos de tu organización y diseñamos soluciones ajustadas a tu punto de partida, no a una plantilla genérica."
+      },
+      {
+        "title": "Resultados monetizables",
+        "description": "Nuestro enfoque Insights as a Service garantiza que cada solución genere valor de negocio concreto, temprano y de forma continua."
+      },
+      {
+        "title": "Ciencia de vanguardia",
+        "description": "Aplicamos los avances más recientes en IA y analítica avanzada, respaldados por credenciales académicas y aliados científicos para implementaciones rigurosas y eficientes."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Casos de uso",
+    "subtitle": "Proyectos reales en sectores distintos. Resultados medibles.",
+    "labels": {
+      "challenge": "Reto",
+      "solution": "Solución",
+      "result": "Resultado"
+    },
+    "items": [
+      {
+        "sector": "Salud",
+        "title": "Asistente inteligente para pacientes en tiempo real",
+        "challenge": "Los pacientes tenían dificultades para acceder a información clara sobre sus tratamientos entre consultas, generando incertidumbre y baja adherencia.",
+        "solution": "Agente conversacional de IA integrado con el sistema clínico que permite consultar tratamientos, medicamentos, citas y recomendaciones en cualquier momento.",
+        "result": "Mayor adherencia a tratamientos, reducción de consultas médicas innecesarias y una experiencia del paciente significativamente mejorada."
+      },
+      {
+        "sector": "Propiedad Intelectual",
+        "title": "Modelos matemáticos para distribución y recaudo de derechos",
+        "challenge": "Una gestora de derechos de autor necesitaba optimizar la distribución de regalías y mejorar sus proyecciones de recaudo en redes complejas de autores y plataformas.",
+        "solution": "Modelos matemáticos que analizan patrones de consumo e históricos para proyectar ingresos, optimizar distribución por canal y detectar anomalías, integrados a los sistemas existentes.",
+        "result": "Mayor precisión en la liquidación de derechos, menos disputas entre partes y mejor capacidad de proyección financiera."
+      },
+      {
+        "sector": "Inmobiliario",
+        "title": "Data Lake y gobierno de datos",
+        "challenge": "La empresa operaba con datos dispersos en múltiples sistemas — CRM, ERP, portales y plataformas financieras — sin arquitectura centralizada que permitiera análisis integrado.",
+        "solution": "Data Lake centralizado con políticas de gobierno, catálogo de datos y reglas de calidad que integran todas las fuentes en una capa de analítica unificada.",
+        "result": "Visión unificada del negocio, reportes más ágiles y analítica avanzada sobre portafolio, precios y clientes."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Sectores en los que trabajamos",
+    "items": ["Salud", "Financiero", "Inmobiliario", "Propiedad Intelectual", "Seguros", "Jurídico"]
+  },
+  "team": {
+    "title": "Nuestro equipo",
+    "subtitle": "Tres co-fundadores con experiencia de alto nivel en datos, IA y finanzas.",
+    "role": "Co-fundador",
+    "members": [
+      {
+        "name": "Juan Sebastián Parra",
+        "bio": "PhD en Educación y Magíster en Ciencia de Datos e Ingeniería. Ha liderado comunidades de datos y analítica en el sector asegurador colombiano y dirigido proyectos de investigación e innovación en IA y analítica avanzada en el sector financiero. Su perfil multidisciplinar conecta el rigor científico con aplicaciones de negocio de alto impacto."
+      },
+      {
+        "name": "Sebastián Castelblanco",
+        "bio": "Magíster en Ciencia de Datos y Economista. Ha ejercido como Senior Data Scientist en empresas de tecnología de escala global, con experiencia en e-commerce, tecnología financiera y consultoría. Combina el pensamiento económico con modelos de machine learning para generar soluciones orientadas a resultados de negocio medibles."
+      },
+      {
+        "name": "Sebastián Ardila",
+        "bio": "Magíster en Finanzas con amplia experiencia en el sector financiero colombiano. Ha liderado áreas de riesgos financieros, metodologías y operaciones de derivados en infraestructura del mercado de capitales y banca multinacional. Su expertise combina finanzas cuantitativas con visión estratégica para la gestión del riesgo y la toma de decisiones basada en datos."
+      }
+    ]
+  },
+  "contact": {
+    "title": "¿Hablamos?",
+    "subtitle": "¿Listo para hacer posible lo que imaginas? Conversemos sobre cómo la IA puede transformar tu negocio.",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "email": "Envíanos un correo",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "placeholder_name": "Tu nombre",
+      "placeholder_email": "tu@empresa.com",
+      "placeholder_message": "Cuéntanos sobre tu proyecto..."
+    }
+  },
+  "footer": {
+    "tagline": "Make it Possible with Artificial Intelligence",
+    "nav_title": "Navegación",
+    "contact_title": "Contacto",
+    "rights": "© 2025 MITWAI. Todos los derechos reservados."
+  }
+}

@@ -13,7 +13,7 @@ export default function ContactSection() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
-    const subject = encodeURIComponent('Contacto desde mitwai.com')
+    const subject = encodeURIComponent(t('contact.form.email_subject'))
     const body    = encodeURIComponent(`Nombre: ${name}\nEmail: ${email}\n\n${message}`)
     window.location.href = `mailto:${EMAIL}?subject=${subject}&body=${body}`
   }
@@ -60,7 +60,7 @@ export default function ContactSection() {
         {/* Divider */}
         <div className="flex items-center gap-4 mb-10">
           <div className="flex-1 border-t border-white/10" />
-          <span className="text-white/30 text-sm">o</span>
+          <span className="text-white/30 text-sm">{t('contact.form.divider')}</span>
           <div className="flex-1 border-t border-white/10" />
         </div>
 
@@ -73,6 +73,7 @@ export default function ContactSection() {
               value={name}
               onChange={e => setName(e.target.value)}
               placeholder={t('contact.form.placeholder_name')}
+              aria-label={t('contact.form.name')}
               className={inputClass}
             />
             <input
@@ -81,6 +82,7 @@ export default function ContactSection() {
               value={email}
               onChange={e => setEmail(e.target.value)}
               placeholder={t('contact.form.placeholder_email')}
+              aria-label={t('contact.form.email')}
               className={inputClass}
             />
           </div>
@@ -90,6 +92,7 @@ export default function ContactSection() {
             value={message}
             onChange={e => setMessage(e.target.value)}
             placeholder={t('contact.form.placeholder_message')}
+            aria-label={t('contact.form.message')}
             className={`${inputClass} resize-none`}
           />
           <button type="submit" className="btn-primary self-end px-8 py-4 text-base">

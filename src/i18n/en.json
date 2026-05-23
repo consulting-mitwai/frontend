@@ -115,7 +115,9 @@
       "submit": "Send message",
       "placeholder_name": "Your name",
       "placeholder_email": "you@company.com",
-      "placeholder_message": "Tell us about your project..."
+      "placeholder_message": "Tell us about your project...",
+      "divider": "or",
+      "email_subject": "Contact from mitwai.com"
     }
   },
   "footer": {
